@@ -1,4 +1,7 @@
 /*
+
+LECTURE : 09
+
 There are two types of data types in JavaScript:
 1. Primitive Data Types
 2. Non-Primitive (Reference) Data Types
